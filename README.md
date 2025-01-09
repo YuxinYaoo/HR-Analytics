@@ -19,15 +19,6 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/pavansubhas
 - Build machine learning models to predict employee attrition.
 - Provide actionable recommendations for improving employee retention.
 
-## Project Structure
-```
-|-- data/                  # Dataset and raw data files
-|-- notebooks/             # Jupyter notebooks for exploration and modeling
-|-- src/                   # Python scripts for data processing and modeling
-|-- README.md              # Project description and setup instructions
-```
-
-
 
 ## Features and Highlights
 ### Data Exploration
