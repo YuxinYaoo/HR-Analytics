@@ -26,7 +26,12 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/pavansubhas
 - Visualization of key factors influencing attrition.
 
 ### Machine Learning Models
-- **Decision Tree**: Built and tuned to predict employee attrition effectively.
+- **Decision Tree**: Built as a simple baseline model for predicting attrition.
+- **Bagging**: Improved model stability and reduced variance using ensemble techniques.
+- **Random Forest**: Leveraged multiple decision trees for better generalization.
+- **AdaBoost**: Enhanced model performance by focusing on misclassified instances.
+- **Gradient Boosting Classifier**: Used gradient-based optimization for robust predictions.
+- **XGBoost**: Achieved high accuracy and performance with advanced boosting techniques.
 
 
 ### Results
