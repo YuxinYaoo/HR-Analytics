@@ -35,7 +35,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/pavansubhas
 
 
 ### Results
-- Achieved an accuracy of 78% in predicting employee attrition using the decision tree model.
+- Achieved an accuracy of 86.96% in predicting employee attrition using the Gradient Boosting Classifier model.
 
 
 ## Key Findings and Recommendations
